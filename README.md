@@ -1,28 +1,41 @@
-# Academico
+# 📚 Academico
 
-Proyecto Java para gestión académica.
+Proyecto Java para gestión académica desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Aplicación Java para gestionar información académica de estudiantes y cursos.
 
-## Características
+---
+
+## ✨ Características
 
 - Registro de estudiantes
 - Gestión de cursos
 - Control de calificaciones
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - Java SE
 - Base de datos
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
