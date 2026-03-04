@@ -1,4 +1,4 @@
-﻿# Monitoreo de Espacio en Disco - Documentacion Operativa
+﻿# Monitoreo de Espacio en Disco
 
 Script principal: `disk-space-monitor.ps1`
 
